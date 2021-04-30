@@ -1,2 +1,2 @@
 # Aleks
-Look into readme.doc
+Look into readme.docx
