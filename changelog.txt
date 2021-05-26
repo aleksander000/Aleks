@@ -1,0 +1,15 @@
+version 1.0.4 April 1st 2021 - 
+	corrected auto view of the selected file
+	corrected messages texts
+	corrected slashes vs backslashes in the file name
+version 1.2.10
+	corrected group hosts report
+
+version 1.2.15
+	corrected locals behavior
+version 1.2.20
+	corrected locals by changing stream from curl to redirected file
+version 1.3.2
+	changed host query directed (during host to group addition) to inventory selected
+
+
