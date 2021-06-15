@@ -1,0 +1,25 @@
+Download the file :
+
+https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe
+
+Launch and install it
+
+Open CMD konsole
+
+Install PySimpleGUI by the command in CMD
+
+pip install PySimpleGUI
+
+Install library "Requests" by the command in CMD
+
+python -m pip install requests 
+
+copy file main.py to a directory (in local user area)
+
+go to the directory where was put main.py
+
+edit main.py file and put the valid Ansible Tower token : token='ABCD....'
+
+launch python file by the command
+
+python main.py
